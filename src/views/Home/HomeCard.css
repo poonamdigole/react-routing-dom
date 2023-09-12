@@ -1,0 +1,23 @@
+.home-card{
+    width: 400px;;
+    height: 550px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border: 1px solid #ccc;
+    background-color: rgb(247, 246, 246);
+    border-radius:  5px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 5px rgb(166, 249, 249);
+    
+}
+.imgganesh{
+    /* height:300px; */
+    width:220px;
+    margin-left: 90px;
+    border-radius: 50%;
+   
+
+}
+.heading{
+text-align: center;
+}

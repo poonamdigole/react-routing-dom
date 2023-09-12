@@ -1,0 +1,16 @@
+.navStyle {
+        font-size: 25px;
+        background-color: rgb(15, 218, 218);
+        padding: 10px;
+}
+.nav-content {
+    margin: 30px;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+.brands {
+    font-weight: bold;
+    font-size: 30px;
+    margin-right: 20px;
+}
